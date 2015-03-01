@@ -1,0 +1,10 @@
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\obj\Debug\MvcBoilerplate.Model.csprojResolveAssemblyReference.cache
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\MvcBoilerplate.Model.dll.config
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\MvcBoilerplate.Model.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\MvcBoilerplate.Model.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\EntityFramework.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\EntityFramework.xml
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\obj\Debug\MvcBoilerplate.Model.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Model\obj\Debug\MvcBoilerplate.Model.pdb

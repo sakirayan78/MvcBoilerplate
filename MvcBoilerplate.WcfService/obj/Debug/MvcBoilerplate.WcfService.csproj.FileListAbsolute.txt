@@ -1,0 +1,6 @@
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\bin\MvcBoilerplate.WcfService.dll.config
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\bin\MvcBoilerplate.WcfService.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\bin\MvcBoilerplate.WcfService.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\obj\Debug\MvcBoilerplate.WcfService.csprojResolveAssemblyReference.cache
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\obj\Debug\MvcBoilerplate.WcfService.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.WcfService\obj\Debug\MvcBoilerplate.WcfService.pdb

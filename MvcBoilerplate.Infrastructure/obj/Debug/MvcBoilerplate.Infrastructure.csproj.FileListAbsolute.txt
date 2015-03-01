@@ -1,0 +1,4 @@
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Infrastructure\bin\Debug\MvcBoilerplate.Infrastructure.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Infrastructure\bin\Debug\MvcBoilerplate.Infrastructure.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Infrastructure\obj\Debug\MvcBoilerplate.Infrastructure.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Infrastructure\obj\Debug\MvcBoilerplate.Infrastructure.pdb

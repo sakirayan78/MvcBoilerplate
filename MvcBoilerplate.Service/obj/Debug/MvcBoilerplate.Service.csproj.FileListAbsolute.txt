@@ -1,0 +1,11 @@
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Service.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Service.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\obj\Debug\MvcBoilerplate.Service.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\obj\Debug\MvcBoilerplate.Service.pdb
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\obj\Debug\MvcBoilerplate.Service.csprojResolveAssemblyReference.cache
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Model.dll
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Repository.dll
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\EntityFramework.dll
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Model.pdb
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\MvcBoilerplate.Repository.pdb
+C:\Users\gunesx\Documents\Visual Studio 2013\Projects\MvcBoilerplate\MvcBoilerplate.Service\bin\Debug\EntityFramework.xml
